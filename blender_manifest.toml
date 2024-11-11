@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "NameSync"
+version = "1.0.0"
+name = "NameSync"
+tagline = "Match object names to mesh names"
+maintainer = "Nanosize <nao@nanosize.net>"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
